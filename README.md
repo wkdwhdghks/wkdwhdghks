@@ -26,10 +26,6 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/wkdwhdghks"><img align="center" style="height:110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdwhdghks&layout=compact&hide_border=true&bg_color=fff&title_color=141414&text_color=141414" /></a>
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=	jghee&langs_count=8)](https://github.com/	jghee/github-readme-stats) 
-<h1> Github Stats </h1>
-![jghee's github stats](https://github-readme-stats.vercel.app/api?username=jghee&show_icons=true)
- 
 <a href="https://github.com/wkdwhdghks"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wkdwhdghks&show_icons=false&include_all_commits=true&hide_border=true&bg_color=fff&title_color=141414&text_color=141414"></a>
 
 # Contacts

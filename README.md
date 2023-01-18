@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 <div align="leading">
 <h1> My skills set </h1>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E">
@@ -23,8 +22,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=#61DAFB">
 
 <h1> Most Used Languages </h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdwhdghks)](https://github.com/wkdwhdghks/github-readme-stats)
- 
 <a href="https://github.com/wkdwhdghks"><img align="center" style="height:110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdwhdghks&layout=compact&hide_border=true&bg_color=fff&title_color=141414&text_color=141414" /></a>
  
 <a href="https://github.com/wkdwhdghks"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wkdwhdghks&show_icons=false&include_all_commits=true&hide_border=true&bg_color=fff&title_color=141414&text_color=141414"></a>

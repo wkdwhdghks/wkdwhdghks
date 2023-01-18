@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/wkdwhdghks"><img align="center" style="height:110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdwhdghks&layout=compact&hide_border=true&bg_color=#000000&title_color=141414&text_color=141414" /></a>
 
-<a href="https://github.com/wkdwhdghks"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wkdwhdghks&show_icons=false&include_all_commits=true&hide_border=true&bg_color=#000000&title_color=141414&text_color=141414"></a>
+<a href="https://github.com/wkdwhdghks"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wkdwhdghks&show_icons=false&include_all_commits=true&hide_border=true&bg_color=0E1117&title_color=141414&text_color=141414"></a>
 
 # Contacts
 <a href="https://wkdwhdghks.tistory.com/"><img src="https://img.shields.io/badge/Tistory-EE5205?style=for-the-badge&logo=Tistory&logoColor=white">

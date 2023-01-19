@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h1> Most Used Languages </h1>
 
-<a href="https://github.com/wkdwhdghks"><img align="center" style="height:110px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdwhdghks&layout=compact&hide_border=false&bg_color=0D1117&title_color=fff&text_color=fff&border_color=fff" /></a>
+<a href="https://github.com/wkdwhdghks"><img align="center" style="height:110px" src="https://github-readme-stats.sigma-five.vercel.app/api/top-langs/?username=wkdwhdghks&layout=compact&hide_border=false&bg_color=0D1117&title_color=fff&text_color=fff&border_color=fff" /></a>
 
 <a href="https://github.com/wkdwhdghks"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=wkdwhdghks&show_icons=false&include_all_commits=true&hide_border=false&bg_color=0D1117&title_color=fff&text_color=fff&border_color=fff"></a>
 

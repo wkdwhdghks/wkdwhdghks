@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/React-323330?style=for-the-badge&logo=React&logoColor=#61DAFB">
 
 <h1> Most Used Languages </h1>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wkdwhdghks&layout=compact)](https://github.com/wkdwhdghks/github-readme-stats)
+<a href="https://github.com/wkdwhdghks"><img align="center" style="height:110px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wkdwhdghks&layout=_border=false&bg_color=0D1117&title_color=fff&text_color=fff&border_color=fff" /></a>
   
 <a href="https://github.com/wkdwhdghks"><img align="center" style="height:110px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=wkdwhdghks&layout=compact&hide_border=false&bg_color=0D1117&title_color=fff&text_color=fff&border_color=fff" /></a>
 
